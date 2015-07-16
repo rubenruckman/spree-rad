@@ -1,0 +1,2 @@
+<!-- insert_bottom 'div#inside-product-cart-form' -->
+<erb loud>render partial: 'spree/products/variant_options'</erb>

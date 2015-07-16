@@ -1,0 +1,2 @@
+<!-- replace '#search-bar' -->
+<li><erb loud>  link_to_cart </erb></li>
