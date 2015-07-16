@@ -1,2 +1,2 @@
 <!-- replace '#search-bar' -->
-<li><erb loud>  link_to_cart </erb></li>
+<li class="hidden-xs"><erb loud>  link_to_cart </erb></li>
